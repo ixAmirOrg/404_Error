@@ -1,7 +1,6 @@
 # 404_Error
 This is a package of 404 website error templates
 
+# The Astronaut
 
-https://s28.picofile.com/file/8463736184/404_1.jpeg
-
-<a href="https://github.com/ixAmirCom"><img align="right" title="MalBo.Dev" src="https://s28.picofile.com/file/8463736184/404_1.jpeg"></a>
+<a href="https://github.com/ixAmirCom/404_Error/The Astronaut"><img align="right" title="MalBo.Dev" src="https://s28.picofile.com/file/8463736184/404_1.jpeg"></a>
