@@ -2,7 +2,7 @@
 - 🔥 This is a package of 404 website error templates.
 - ⚡️ [click here for connect to author](https://t.me/ixAmirCom)
 
-# The Astronaut
+# 🤖 The Astronaut
 - Template of astronaut lost in space
 - Fully responsive
 - Simple and optimized coding
