@@ -1,5 +1,6 @@
-# 404_Error
-This is a package of 404 website error templates
+# 🤖 Commenter Telegram Bot
+- 🔥This is a comment occupying bot for use in Telegram.
+- ⚡️ [click here for connect to author](https://t.me/ixAmirCom)
 
 # The Astronaut
 
