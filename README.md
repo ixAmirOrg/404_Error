@@ -14,6 +14,3 @@
 - Simple and optimized coding
 - Has an attractive animation
 
-
-https://github.com/ixAmirCom/404_Error/assets/120335131/c41175cb-2c28-4642-b67a-4eb1ebc18e1d
-
