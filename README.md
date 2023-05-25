@@ -8,7 +8,7 @@
 - Simple and optimized coding
 <a href="https://github.com/ixAmirCom/404_Error"><img align="right" title="MalBo.Dev" src="https://s28.picofile.com/file/8463736184/404_1.jpeg"></a>
 
-# 🤖 The Astronaut
+# 🤖 city
 - Template of astronaut lost in space
 - Fully responsive
 - Simple and optimized coding
